@@ -1,0 +1,35 @@
+.container{
+    width: 100%;
+    position: absolute;
+}
+
+.box1{
+    width: 40%;
+    height: 50%;
+    background-color: aqua;
+}
+
+.box2{
+    width: 40%;
+    height: 50%;
+    background-color: blueviolet;
+}
+.box3{
+    width: 40%;
+    height: 50%;
+    background-color: red;
+}
+.box4{
+    width: 40%;
+    height: 50%;
+    background-color: blue;
+}
+.box5{
+    width: 40%;
+    height: 50%;
+    background-color: orange;
+}
+
+.name{
+    font-size: 11rem;
+}
